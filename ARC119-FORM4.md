@@ -41,7 +41,7 @@
 ```bash
 curl -LO https://raw.githubusercontent.com/creativejv/youtube/refs/heads/main/arc119-f4.sh
 sudo chmod +x arc119-f4.sh
-./arc119-f4
+./arc119-f4.sh
 ```
 </div>
 
