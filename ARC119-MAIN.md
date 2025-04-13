@@ -20,7 +20,7 @@
 Link:https://www.programiz.com/online-compiler/9biSF1XplxSdw
 
 ### 🗂️ **Form 1**  
-🔗 **Solution Video:** [Watch Here](https://www.youtube.com/watch?v=TRejFsKLYHA)
+🔗 **Solution Video:** [Watch Here](https://youtu.be/uPz0_2td5GU)
 
 ✅ Tasks:
 - 📦 **Create a Cloud Storage bucket**  
@@ -31,7 +31,7 @@ Link:https://www.programiz.com/online-compiler/9biSF1XplxSdw
 ---
 
 ### 📁 **Form 2**  
-🔗 **Solution Video:** [Watch Here](https://www.youtube.com/watch?v=egx3yJAQ6tQ)
+🔗 **Solution Video:** [Watch Here](https://youtu.be/SVa3y7vi_zI)
 
 ✅ Tasks:
 - 🌊 **Create a lake in Dataplex and add a zone to your lake**  
@@ -42,7 +42,7 @@ Link:https://www.programiz.com/online-compiler/9biSF1XplxSdw
 ---
 
 ### 📊 **Form 3**  
-🔗 **Solution Video:** [Watch Here](https://www.youtube.com/watch?v=JetjLecFWqs)
+🔗 **Solution Video:** [Watch Here](https://youtu.be/OUezxkwd_A0)
 
 ✅ Tasks:
 - 🧠 **Create a BigQuery dataset**  
@@ -53,7 +53,7 @@ Link:https://www.programiz.com/online-compiler/9biSF1XplxSdw
 ---
 
 ### 🧪 **Form 4**  
-🔗 **Solution Video:** [Watch Here](https://www.youtube.com/watch?v=_eIKXbrgye4)
+🔗 **Solution Video:** [Watch Here](https://youtu.be/QImp0EF9y04)
 
 ✅ Tasks:
 - 🌊 **Create a lake in Dataplex and add a zone to your lake**  
