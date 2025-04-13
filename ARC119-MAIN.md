@@ -65,5 +65,4 @@ Link:https://www.programiz.com/online-compiler/9biSF1XplxSdw
 
 <div align="center">
 
-## 🎉 Join the Arcade Crew Community  
 
